@@ -22,7 +22,7 @@ If prompted for QR code pairing, follow the instructions. For mobile users, note
 
 ### 3. Troubleshooting
 - If you encounter issues, check the error messages in the console for clues.
-- Holla us on [WhatApp] (https://wa.me/254735306047) for assistance.
+- Holla us on [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/254735306047) for assistance.
 
 ### 4. Responsible Usage
 Remember, this script is for educational purposes. Use it responsibly and respect WhatsApp's terms of service.
@@ -34,10 +34,11 @@ Contributions are welcome! Feel free to fork the project and submit pull request
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- Baileys Library: [Link to Baileys GitHub](https://github.com/whiskeysockets/baileys)
+- Baileys Library: 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/whiskeysockets/baileys)
 
 ## Disclaimer
 This script is for educational purposes only. Use responsibly and respect WhatsApp's terms of service.
 
 ## Connect with the Community
-Join WebSocket community on [Discord].(https://discord.gg/7BW9wHdK)
+Join WebSocket community on [![Discord](https://img.shields.io/badge/Discord-Join-blueviolet)](https://discord.gg/7BW9wHdK)
