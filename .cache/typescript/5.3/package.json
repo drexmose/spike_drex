@@ -1,0 +1,1 @@
+{"private":true,"dependencies":{"types-registry":"^0.1.676"},"devDependencies":{"@types/clone":"^2.1.4","@types/node-fetch":"^2.6.9","@types/qrcode-terminal":"^0.12.2"}}
