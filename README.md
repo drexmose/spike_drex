@@ -12,7 +12,7 @@ This JavaScript script implements a powerful WhatsApp bot using the Baileys libr
 ## Getting Started
 1. **Install Dependencies:** Make sure you have Node.js installed. Then, run `npm install` in your terminal to install the required dependencies.
 
-2. **Run the Bot:** Execute the bot script by running `node your_bot_script.js`. Follow the prompts to set up your WhatsApp bot.
+2. **Run the Bot:** Execute the bot script by running `node index.js`. Follow the prompts to set up this bot.
 
 ### 1. Configuration
 The script may have some configurable variables at the beginning. It's essential to review and modify them according to your needs. Refer to the script documentation for details.
@@ -22,7 +22,7 @@ If prompted for QR code pairing, follow the instructions. For mobile users, note
 
 ### 3. Troubleshooting
 - If you encounter issues, check the error messages in the console for clues.
-- Join our community on [Discord/Slack/YourPreferredPlatform] for assistance. No question is too noobish!
+- Holla us on [WhatApp] (https://wa.me/254735306047) for assistance.
 
 ### 4. Responsible Usage
 Remember, this script is for educational purposes. Use it responsibly and respect WhatsApp's terms of service.
@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](LICENSE).
 This script is for educational purposes only. Use responsibly and respect WhatsApp's terms of service.
 
 ## Connect with the Community
-Join WebSocket community on [Discord/Slack/YourPreferredPlatform].
+Join WebSocket community on [Discord].(https://discord.gg/7BW9wHdK)
